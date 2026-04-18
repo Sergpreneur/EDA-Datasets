@@ -1,0 +1,98 @@
+Restaurant,URL,Address,Cuisine,Price_category,Atmosphere,Food,Service,Weighted_score,Latitude,Longitude
+Al Mare Grill,http://www.almarefood.ee/grill/,Mõisa tn 4,american,mid-range,3.5,3,3.1,3.12,59.4271521,24.655658
+Allee,https://www.alleerestoran.ee/,Kanuti 2,international,mid-range,4,4.1,3.9,4.04,59.440128,24.7511312
+Argentiina Lootsi ,https://argentiina.ee/,Lootsi 8,argentinean,expensive,3.3,4.3,3.6,3.96,59.4408376,24.7652248
+Argentiina Pärnu mnt,https://argentiina.ee/,Pärnu mnt 37,argentinean,expensive,4.1,4.5,4.2,4.36,59.4292722,24.7437892
+Charlies Corner,https://charliescorner.ee/,Juhkentali 28,international,mid-range,3.9,3.9,3.9,3.9,59.4276057,24.7646986
+Dominic,https://www.restoran.ee/,Vene 10,estonian,expensive,4.4,4.7,4.5,4.6,59.43753,24.74747
+GC Gastrobar,https://nosi.ee/danielgourmet/,Lai 49,scandinavian,mid-range,4.6,4.6,4.6,4.6,59.4422213,24.7473673
+Goodwin The Steak House,http://www.steak.ee/,Viru 22,american,expensive,3.8,4.4,4.1,4.22,59.43649,24.7491717
+Hans,http://www.hansresto.ee/,A. Lauteri 5,chinese,mid-range,2.4,3.6,3.8,3.4,59.4314698,24.757714
+IO restaurant,https://bacio.ee/menuu/,Narva mnt 63 ,italian,mid-range,4.6,4.7,4.7,4.68,59.4403038,24.7814065
+Kalevi Jahtklubi Resto,http://www.jahtklubiresto.ee/,Pirita tee 17,mediterranean,mid-range,4.2,4.2,4.2,4.2,59.46543,24.83003
+Kivi Paber Käärid,http://www.kivipaber.ee/,Telliskivi 60a,fusion,mid-range,4.1,4.2,4.3,4.2,59.4386723,24.728172
+La Prima Pizza Vanalinn,https://laprima.restaurant/vanalinn,Müürivahe 2,italian,mid-range,4.8,4.7,4.8,4.74,59.4346949,24.7437899
+Lore Bistroo,http://lorebistroo.ee/,Peetri 12,international,mid-range,4.6,4.2,4,4.24,59.4523743,24.7304695
+MEAT Resto & Butchery,http://www.meatresto.ee/,Rannamõisa tee 38d,steakhouse,mid-range,4.6,4.3,4.3,4.36,59.4373584,24.5720225
+Olde Hansa,http://www.oldehansa.com/,Vana turg 1,medieval,expensive,4.6,4.1,4.4,4.26,59.43666,24.74588
+Platz,https://www.platz.ee/,Roseni 7,european,mid-range,4.1,4,4,4.02,59.43861,24.75543
+Poke Bowl,https://www.pokebowl.ee/,Tammsaare tee 104a,hawaii,mid-range,3.4,4,3.8,3.84,59.4085999,24.6887217
+Rae,https://www.raeharra.ee/en,Raekoja plats 10,european,mid-range,4,4.3,4.3,4.24,59.4377045,24.7455028
+Salt,https://saltrestoran.ee/,Vase 14,international,mid-range,4.1,4.7,4.6,4.56,59.435098,24.7734134
+Sardiinid,https://sardiinia.ee/,Regati pst 1,international,mid-range,4,4,4,4,59.4670647,24.8268839
+Senso,http://www.restoransenso.ee/,Liivalaia 33,mediterranean,mid-range,3.7,4,4.1,3.96,59.4302796,24.7579489
+Spot,http://www.restoranspot.ee/,Vene tn 4,european,mid-range,4.4,4.6,4.5,4.54,59.43716,24.74702
+SÜSI Grill & Chill,http://www.sysigrill.ee/,Peterburi tee 2,american,mid-range,3.2,3.6,3.4,3.48,59.4247123,24.7952303
+The Able Butcher,https://theablebutcher.ee/,Fr.R. Kreutzwaldi 23,steakhouse,expensive,4.9,4.7,4.8,4.76,59.4335329,24.7685375
+Troika,https://troika.ee/,Raekoja plats 15,russian,mid-range,4,3.9,3.6,3.86,59.43734,24.74624
+Beer Garden,http://www.beergarden.ee/,Aia 10 ,pub,mid-range,3.8,4.2,4,4.08,59.43826,24.75181
+Elevant,http://www.elevant.ee/,Vene tn 5,indian,mid-range,4.4,4.3,4.2,4.3,59.43744,24.74672
+Farm,http://restaurant.farm/,Viru 11,estonian,mid-range,4.1,4.6,4.5,4.48,59.4369304,24.7489682
+FORK Resto,,Veerenni 24,american,budget,4.5,4.5,4.5,4.5,59.4241011,24.7480838
+Gianni,http://www.gianni.ee/,Jõe tn 4a,italian,expensive,4.4,4.5,4.4,4.46,59.4388,24.76459
+Kolm Sibulat,http://www.kolmsibulat.eu/,Telliskivi 2,international,mid-range,4.3,4.5,4.5,4.46,59.43353,24.71845
+Mantel ja Korsten,http://www.mantel-korsten.ee/,Jaan Poska 19a,mediterranean,expensive,4.3,4.4,4.4,4.38,59.435863,24.7818574
+Meistri Cafe Lyon,http://cafelyon.ee/,Meistri 22,french,mid-range,4.5,4,4,4.1,59.4147721,24.6585662
+MOON,http://www.restoranmoon.ee/,Telliskivi tn 60-4,russian,mid-range,4.1,4.5,4.5,4.42,59.44513,24.74776
+Munga Kelder,http://www.mungakelder.ee/,Vene 12a,european,mid-range,4.4,4.2,4.1,4.22,59.4377918,24.7475437
+Radio,http://www.restoranradio.ee/,Terase 16,european,mid-range,4.5,4.6,4.4,4.54,59.4349719,24.771579
+Reval Cafe,https://revalcafe.ee/kohvik/ravala/,Müürivahe 14,fusion,budget,4.4,4.3,4.1,4.28,59.4348715,24.7455543
+Rukis,http://rukis.ee/,Viru tn 11,estonian,mid-range,4.4,4.4,4.4,4.4,59.4367954,24.7484874
+St. Patricks Foorum,http://www.patricks.ee/,Narva mnt 5,estonian,mid-range,3.8,3.7,3.3,3.64,59.4377018,24.757988
+Tokumaru Ramen & Sushi,http://tokumaru.ee/,Estonia pst 9,japanese,mid-range,3.8,4.4,4,4.2,59.4331752,24.7516287
+Villa Thai,http://www.villathai.ee/,Vilmsi 6,thai,mid-range,4.3,4.2,4.4,4.26,59.43821,24.77439
+NOA,http://www.noaresto.ee/,Ranna tee 3,fusion,premium,4.6,4.4,4.3,4.42,58.38964,26.7177
+NOA Cheff Hall,https://nch.ee/,Ranna tee 3,fusion,premium,4.2,4.6,4.6,4.52,58.38964,26.7177
+180° by Matthias Diether,https://www.180degrees.ee/,Staapli 4,european,premium,4.7,4.8,4.7,4.76,59.45213,24.7286
+Tuljak,https://tuljak.ee,Pirita tee 26e,european,expensive,4.6,4.3,4.1,4.32,59.44841,24.80673
+Mon Repos,https://monrepos.ee,Narva mnt 92,european,mid-range,4.1,4.4,4.3,4.32,59.448408,24.806681
+Tchaikovsky,https://telegraafhotel.com,Vene 9,french,premium,4.7,4.7,4.6,4.68,59.43779,24.74721
+Puri,https://puriresto.ee,Nooda tee 8,european,expensive,4.8,4.5,4.6,4.58,59.4507,24.604019
+Rataskaevu 16,https://rataskaevu16.ee,Rataskaevu 16,international,mid-range,4.7,4.7,4.8,4.72,59.43691,24.74233
+Vegan Restoran V,https://veganrestoran.ee,Rataskaevu 12,european,mid-range,4.7,4.8,4.7,4.76,59.43711,24.74263
+F-Hoone,https://fhoone.ee,Telliskivi 60a,pub,mid-range,4.3,4.2,4,4.18,59.439,24.72879
+Lee Brasserie,https://leebrasserie.ee/,Uus 31,fusion,mid-range,4.6,4.5,4.5,4.52,59.4410822,24.7495671
+III Draakon,https://www.kolmasdraakon.ee,Raeplats 1,estonian,budget,4.7,4.2,4,4.26,59.437323,24.745344
+Kompressor,http://kompressorpub.ee,Rataskaevu 3,pub,budget,3.6,4.4,3.6,4.08,59.437323,24.745344
+Controvento,https://controvento.ee,Vene 12,italian,mid-range,4,4.2,4,4.12,59.43766,24.74765
+Cru,http://www.crurestoran.com/,Viru 8,italian,expensive,4.7,4.7,4.7,4.7,59.4367,24.74761
+Maikrahv,https://maikrahv.ee,Raeplats 8,european,expensive,4,3.6,3.9,3.74,59.43696,24.75353
+Soo Uulits,http://www.uulits.ee/,Soo tn 1b,american,mid-range,4,4.3,4.3,4.24,59.4449,24.742388
+UMA Restaurant,https://www.umaresto.ee/,Peetri tn 12,chinese,mid-range,4.3,4.5,4.4,4.44,59.452394,24.730566
+Fotografiska Restaurant,https://fotografiska.com,Telliskivi 60a,estonian,expensive,4.2,3.8,3.7,3.86,59.439,24.72879
+NOP,https://nop.ee,J. Köleri tn 1,international,mid-range,4.1,4.3,3.8,4.16,59.43834,24.77639
+Rohe Kohvik,http://www.rohekohvik.ee/,Kopli tn 4,international,mid-range,4.9,4.7,4.3,4.66,59.44135,24.73821
+Chakra,https://chakra.ee,Bremeni käik 1,indian,mid-range,4.5,4.5,4.5,4.5,59.43936,24.74938
+Gotsu,https://gotsu.ee,Pärnu mnt. 62a,korean,mid-range,4.3,4.3,4.3,4.3,59.42601395,24.74275398
+Cantina Texas,http://www.texas.ee/,Pikk tn 45,mexican,mid-range,4.7,4.5,4.7,4.58,59.43984,24.74685
+VLND Burger,https://vlndburger.ee,Kullassepa tn 4,american,mid-range,4.4,4.5,4.6,4.5,59.43652,24.7444
+Burger Box,,Kopli tn 4a,dutch,budget,4.6,4.5,3.8,4.38,59.44159,24.73656
+Grenka,https://grenka.ee,Pärnu mnt. 76,european,mid-range,4.9,4.7,4.4,4.68,59.42407,24.74207
+Ristikheina Kohvik,https://ristikheinakohvik.ee,Ristiku tn 57,european,budget,4.5,4.6,4.6,4.58,59.44023,24.71457
+Härg,https://resto.harg.ee/,Maakri 21 ,steakhouse,expensive,3.7,4.5,4.3,4.3,59.43285,24.75999
+Pull Restaurant,https://pull.ee,Rotermanni 2 ,steakhouse,mid-range,4.2,4.4,4.2,4.32,59.43839,24.75786
+Kaja Pizza Köök,https://kajapizza.ee,Õle tn 33,italian,mid-range,4,4.7,4.2,4.46,59.439584,24.717246
+Da Rocco,https://darocco.ee,Lai 6,italian,mid-range,4.4,4.7,4.6,4.62,59.439543,24.717019
+Vapiano,https://vapiano.ee,Hobujaama tn 10,italian,budget,4.1,4.1,4,4.08,59.43808,24.75863
+Amalfi,http://www.amalfiresto.ee/,Vana-Viru tn 13,italian,mid-range,4.4,4.3,4.4,4.34,59.4373147,24.75216
+Chedi,https://chedi.ee,Sulevimägi 1,fusion,mid-range,4.2,4.3,3.9,4.2,59.44036,24.74809
+Asian Fair,https://asianfair.ee,Tuukri põik 3,chinese,mid-range,3.3,4,4.4,3.94,59.43892,24.76962
+Sushimon,https://sushimon.ee,Tartu mnt 84a,japanese,expensive,4.9,4.5,4.2,4.52,59.42519,24.78075
+Sakura,http://www.sakuraresto.ee/,Pärnu mnt. 32,japanese,mid-range,3.7,4.4,4.1,4.2,59.43045,24.74479
+Chicago 1933,https://chicago.ee,Roseni tn 8,american,mid-range,4.5,3.9,3.9,4.02,59.43906,24.75588
+Frank,http://www.frankbistro.ee/,Sauna tn 2,french,mid-range,3.8,4.1,4.2,4.06,59.438905,24.755945
+Hell Hunt,https://hellhunt.ee,Pikk 39 ,pub,mid-range,4.3,4.1,4.2,4.16,59.43939,24.74658
+Beer House,https://beerhouse.ee,Dunkri 5 ,pub,mid-range,4.4,4.1,4,4.14,59.43681,24.74386
+Scotland Yard,https://scotlandyard.ee,Mere pst 6 ,irish,mid-range,4.4,3.9,3.9,4,59.44158554,24.75288391
+Must Puudel,,Kuninga tn 4,international,mid-range,4.6,4.3,4.3,4.36,59.43645477,24.74553299
+Kehrwieder,http://www.kohvik.ee/,Raekoja plats 10,dessert,mid-range,4.6,4.1,4,4.18,59.43773,24.7455
+Pierre Chocolaterie,https://pierre.ee,Vene 6 ,dessert,mid-range,4.5,4.3,4,4.28,59.4372,24.74725
+Maiasmokk,https://maiasmokk.ee,Pikk 16 ,dessert,budget,4.5,4.3,3.9,4.26,59.43831,24.74571
+Boheem,https://boheem.ee,Kopli 18 ,european,mid-range,4.5,4.2,3.8,4.18,59.44183,24.73226
+OKO,http://www.okoresto.ee/,Kesk tee 27,italian,mid-range,3.1,3.7,3.6,3.56,59.49365,24.84032
+Vesivärava Grill,https://vesivarava.ee,Vesivärava tn 42,american,budget,4.1,4.7,4.3,4.5,59.43424,24.78056
+Kohvik Narva,https://kohviknarva.ee,Narva mnt 10,dessert,budget,3.7,4.1,3.2,3.84,59.43707,24.76332
+Kohvik Sesoon,http://kohviksesoon.ee/,Kalma tn 9,european,mid-range,4.3,4.3,4.3,4.3,59.4431076,24.73624229
+Taverna del Gallo Nero,http://www.tavernagallonero.com/kontakt,J. Poska tn 45,italian,mid-range,2.6,3.8,3.5,3.5,59.440143,24.7855925
+FUME,https://fumeresto.ee/,Ahtri 6,spanish,expensive,4.8,4.9,4.4,4.78,59.43983,24.75823
+LaBocca,https://labocca.ee/,Ahtri 6,italian,mid-range,3,1.6,2.6,2.08,59.43983,24.75823
